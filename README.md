@@ -1,1 +1,1 @@
-# Hi there 👋!, I am Mitul Kumar
+# Hi there 👋! I am Mitul Kumar
