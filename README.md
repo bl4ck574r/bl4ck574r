@@ -1,5 +1,5 @@
 # Hi there 👋! I am Mitul Kumar
-- 💻 Currently working as Security Consultant at Payatu
+- 💻 Currently working as Security Engineer at Phonepe
 - 📫How to reach me? : [LinkedIn](https://www.linkedin.com/in/mitul-kumar/)
 - Hacker rank on [HackTheBox](https://app.hackthebox.com/profile/174993) 
 - Top 3000 on [TryHackMe](https://tryhackme.com/p/Blackstar)
